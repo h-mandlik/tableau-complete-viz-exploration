@@ -62,7 +62,7 @@ The project uses three tables:
 Screenshots available in the `images/` folder.
 
 > Example:  
-> ![Bar Chart Example](data/Profit - Region.png)  
+> ![Bar Chart Example]([data/Profit - Region.png](https://github.com/h-mandlik/tableau-complete-viz-exploration/blob/main/images/Profit%20-%20Region.png))  
 > ![Top N Parameter Filter](images/parameter_top_n.png)
 
 ---
