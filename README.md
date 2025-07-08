@@ -100,4 +100,9 @@ View the dashboard on Tableau Public:
 
 This project is for educational and demonstration purposes. You’re free to fork or use for learning.
 
+![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
+[![View License](https://img.shields.io/badge/View%20License-Here-blue)](https://creativecommons.org/licenses/by/4.0/)
+
 ---
+
+
