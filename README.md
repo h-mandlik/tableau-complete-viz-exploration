@@ -61,11 +61,43 @@ The project uses three tables:
 
 Screenshots available in the `images/` folder.
 
-> Example:  
-> ![Bar Chart Example]([data/Profit - Region.png](https://github.com/h-mandlik/tableau-complete-viz-exploration/blob/main/images/Profit%20-%20Region.png))  
-> ![Top N Parameter Filter](images/parameter_top_n.png)
+> Example:
+![Scatter plot](https://github.com/user-attachments/assets/fc2c4598-799d-4e43-af6e-7754d811cd2c)
+
+![Sets Parameters](https://github.com/user-attachments/assets/fdd1fbef-7042-4595-b9e5-8bb1b9bc74bb)
+
 
 ---
 
-## 📂 Project Structure
+## 💡 Key Insights
 
+- **Central region** consistently outperforms others in total sales.
+- **Office Machines** is the top-selling product sub-category.
+- **Rubber Bands** ranks at the bottom of sales performance using parameter logic.
+- **Segment and State-based** views help identify profitable market areas.
+- **Scatter plots** revealed no direct correlation between very high sales and profit in some cases (high discount effect).
+
+---
+
+## 🔗 Tableau Public Link
+
+View the dashboard on Tableau Public:  
+👉 [Tableau Public Dashboard Link](https://public.tableau.com/views/AllChartsTableau/SetsParameters?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+---
+
+## 📌 Tools & Techniques
+
+- Tableau Desktop / Public
+- Sets & Set Actions
+- Parameters & Dynamic Filters
+- Custom sorting, color coding, and calculated fields
+- Filter actions and interactive dashboards
+
+---
+
+## 📄 License
+
+This project is for educational and demonstration purposes. You’re free to fork or use for learning.
+
+---
